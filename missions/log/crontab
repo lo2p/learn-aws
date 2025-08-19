@@ -1,0 +1,2 @@
+@reboot /home/ec2-user/missions/log/log-gen.sh
+* * * * * /home/ec2-user/missions/log/log-upload.sh >> /home/ec2-user/missions/log/log-upload-cron.log 2>&1

@@ -16,6 +16,8 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 - [Elastic File Storage (EFS)](https://www.notion.so/Elastic-File-Storage-2535cf967b1b80879a44d1547e254988?source=copy_link)
 - [S3](https://www.notion.so/S3-2545cf967b1b800fb4e0dc9bd16e82b4?source=copy_link) & [S3 Glacier](https://www.notion.so/S3-Glacier-2545cf967b1b80e0bcacf9fd80758d86?source=copy_link)
 - [Database (RDS)](https://www.notion.so/DB-2545cf967b1b807eaf87e40525c474b5?source=copy_link)
+- [Aurora DB](https://www.notion.so/Aurora-DB-2555cf967b1b80c29598e8204239158d)
+
 
 **Practice**
 - [Basic VPC setup](https://github.com/lo2p/learn-terraform/tree/main/examples/base-vpc)

@@ -27,3 +27,4 @@ AI MSP 베스핀글로벌의 멀티클라우드(AWS·Azure·GCP·NCP) 엔지니�
 **Practice**
 - [Basic VPC setup](https://github.com/lo2p/learn-terraform/tree/main/examples/base-vpc)
 - [EC2 Log Creation and Upload to S3](https://github.com/lo2p/learn-aws/tree/main/missions/log)
+- [Mini Project - 3 Tier Architecture](https://www.notion.so/3-Tier-2575cf967b1b80889a67c67591dd007f?source=copy_link)
